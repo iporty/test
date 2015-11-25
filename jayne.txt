@@ -1,0 +1,5 @@
+To: George Foo
+From: Rita Marlowe
+Subject: This will succeed
+---
+see subject
